@@ -1,0 +1,14 @@
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/orm/FuncionarioProjecao.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/service/CrudFuncionarioService.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/service/CrudUnidadeTrabalhoService.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/repository/CargoRepository.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/repository/FuncionarioRepository.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/service/RelatorioFuncionarioDinamico.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/specification/SpecificationFuncionario.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/service/CrudCargoService.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/orm/Cargo.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/service/RelatoriosService.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/repository/UnidadeTrabalhoRepository.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/SpringDataApplication.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/orm/UnidadeTrabalho.java
+/home/diego/IdeaProjects/java-spring-data/src/main/java/br/com/alura/spring/data/orm/Funcionario.java
